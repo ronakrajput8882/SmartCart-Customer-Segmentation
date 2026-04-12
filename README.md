@@ -76,7 +76,14 @@ labels = kmeans.fit_predict(X_pca)
 ```python
 agg = AgglomerativeClustering(n_clusters=n_clusters, linkage="ward")
 labels = agg.fit_predict(X_pca)
+```
 
+- Hierarchy-based, no centroid assumption
+- Ward linkage minimises within-cluster variance
+- Useful for detecting non-spherical cluster shapes
+- Produces visually similar separation to K-Means in PCA space
+
+---
 
 ## 📊 Dashboard Tabs
 
