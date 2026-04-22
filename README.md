@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=🛒%20SmartCart%20Customer%20Segmentation&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Unsupervised%20Learning%20with%20K-Means%20%26%20Agglomerative%20Clustering%20%2B%20PCA&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=🛒%20SmartCart%20Customer%20Segmentation&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Unsupervised%20Learning%20with%20K-Means%20Agglomerative%20Clustering%20%2B%20PCA&descAlignY=60&descAlign=50" width="100%"/>
 
 <div align="center">
   
